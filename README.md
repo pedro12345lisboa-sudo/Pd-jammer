@@ -1,6 +1,6 @@
 # jumper — ESP32 DevKit V1 wiring plans (Python + C++)
 
-A **senior-grade** library to document, reason about, and validate jumper wire
+A  library to document, reason about, and validate jumper wire
 plans for the **DOIT ESP32 DEVKit V1 (30-pin)**. The core model is immutable,
 the rules are explicit, and both language front-ends share the same semantics.
 
